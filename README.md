@@ -1,7 +1,7 @@
 # Simple-transport-booking-system
-* Name : Anikpe Jesse
-* Matric no : 24/15703
-* Department : Software engineering
+* Name : Chukwuno Chinonso Emmanuel 
+* Matric no : 24/13630
+* Department : Cyber security 
 
 # 1. Requirement Analysis
 This system books transport seats and displays bookings.
