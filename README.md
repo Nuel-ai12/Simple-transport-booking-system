@@ -1,6 +1,6 @@
 # Simple-transport-booking-system
-* Name : Chukwuno Chinonso Emmanuel 
-* Matric no : 24/13630
+* Name : OSAGIE PECULIAR OSAREME 
+* Matric no : 24/15224
 * Department : Cyber security 
 
 # 1. Requirement Analysis
